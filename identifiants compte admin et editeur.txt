@@ -1,0 +1,5 @@
+Nom d'utilisateur: client-admin
+Mot de passe: Mot2Passe***
+
+Nom d'utilisateur: client-editor
+Mot de passe: Mot2Passe****
